@@ -1,0 +1,5 @@
+Speed Animations - Fluid
+Attack HitBox
+Target Lock Rotation
+Heavy Attack - Combo
+Dashes
